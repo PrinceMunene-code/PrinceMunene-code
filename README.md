@@ -1,6 +1,6 @@
 # HEY WORLD, IM PRINCE AND WELCOME TO MY GITHUB REPO
 # 💫 About Me:
-🔭 I’m currently working on building my Python and machine learning skills<br>👯 I’m looking to collaborate on any data related projects<br>🌱 I’m currently learning Supervised, unsupervised ML and deep learning<br>💬 Ask me about anything data related<br>⚡ Fun fact: 
+🔭 Working on building my Python and machine learning skills<br>👯 I’m looking to collaborate on any data related projects<br>🌱 Continous growth and deeper learning in fields such as Supervised, unsupervised ML and deep learning<br>💬 Ask me about anything data related<br>⚡ Fun fact: 
 
 
 # 💻 Tech Stack:
